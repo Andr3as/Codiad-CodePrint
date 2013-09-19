@@ -1,0 +1,17 @@
+/*
+ * Copyright (c) Codiad & Andr3as, distributed
+ * as-is and without warranty under the MIT License. 
+ * See http://opensource.org/licenses/MIT for more information.
+ * This information must remain intact.
+ */
+
+#workspace, #modal-overlay, #modlal, #autocomplete {
+    display: none;
+}
+
+#print-area {
+    display: block;
+    height: 100%;
+    overflow-y: visible;
+    position: absolute;
+}

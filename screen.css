@@ -1,0 +1,18 @@
+/*
+ * Copyright (c) Codiad & Andr3as, distributed
+ * as-is and without warranty under the MIT License. 
+ * See http://opensource.org/licenses/MIT for more information.
+ * This information must remain intact.
+ */
+
+#print_form input {
+    display: inline;
+}
+
+#print_form p {
+    display: inline;
+}
+
+#print-area {
+    display: none;
+}

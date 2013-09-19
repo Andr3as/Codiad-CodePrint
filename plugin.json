@@ -1,0 +1,11 @@
+[{ "author" : "Andr3as",
+    "version": "0.1",
+    "name" : "CodePrint",
+    "url" : "https://github.com/Andr3as/Codiad-CodePrint",
+    "contextmenu" : [{
+        "action" : "codiad.CodePrint.showDialog($('#context-menu').attr('data-path'));",
+        "icon" : "icon-print",
+        "applies-to" : "file-only",
+        "title" : "Print"
+    }]
+}]
